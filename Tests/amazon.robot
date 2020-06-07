@@ -16,8 +16,8 @@ User navigates to Amazon.com
     Amazonweb.Load Website
 
 User needs to login to Checkout
-    [Documentation]    Second Test
-    [Tags]   Current
+    [Documentation]    Last Test
+    [Tags]   Current Products
     Amazonweb.Load Website
     Amazonweb.Search for Product
     Amazonweb.Add to Cart

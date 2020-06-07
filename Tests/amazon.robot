@@ -11,8 +11,8 @@ ${SEARCH_TEXT} =  kindle
 ${SELECTED_PRODUCT} =   Fire 7 Tablet (7" display, 16 GB) - Black
 *** Test Cases ***
 User navigates to Amazon.com
-    [Documentation]    First Test
-    [Tags]    Smoke
+    [Documentation]    First Tests
+    [Tags]    Smoke Load
     Amazonweb.Load Website
 
 User needs to login to Checkout

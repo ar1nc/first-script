@@ -23,3 +23,6 @@ User needs to login to Checkout
     Amazonweb.Add to Cart
     Amazonweb.Product Checkout
     Amazonweb.User has to login
+
+Feature-1 Test
+    Log   Available on Feature-1 only

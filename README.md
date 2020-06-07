@@ -1,2 +1,3 @@
 # first-script
-this is a test project  for learning robot framework 
+this is a test project
+# wish me luck!

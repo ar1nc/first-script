@@ -11,13 +11,13 @@ ${SEARCH_TEXT} =  kindle
 ${SELECTED_PRODUCT} =   Fire 7 Tablet (7" display, 16 GB) - Black
 *** Test Cases ***
 User navigates to Amazon.com
-    [Documentation]    First Tests
-    [Tags]    Smoke Load
+    [Documentation]    First
+    [Tags]    Smoke
     Amazonweb.Load Website
 
 User needs to login to Checkout
-    [Documentation]    Second Test
-    [Tags]   Current Products
+    [Documentation]    Second
+    [Tags]   Current
     Amazonweb.Load Website
     Amazonweb.Search for Product
     Amazonweb.Add to Cart
